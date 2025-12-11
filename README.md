@@ -1,2 +1,2 @@
-# symulator-nikoli
-Pliki Gry Symulator Nikoli Wolne
+# Symulator Nikoli
+Tu Pozyskasz ważne pliki to zainstalowania symulatora
